@@ -1,0 +1,61 @@
+.header {
+
+    font-style: italic;
+    text-align: center;
+}
+
+.black {
+    color: black;
+}
+
+.header h2 {
+    color: goldenrod;
+}
+
+.logoo {
+    height: 150px;
+}
+
+marquee {
+    color: white;
+    font-weight: bold;
+    background-color: chocolate;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid chocolate;
+    border-radius: 10px;
+
+}
+
+nav {
+    background-color: chocolate;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 50px;
+}
+
+nav a {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    border: 2px solid burlywood;
+    border-radius: 8px;
+}
+
+nav a:hover {
+    background-color: lightgray;
+    color: chocolate;
+}
+
+
+
+
+.bg img {
+    width: 100%;
+    height: 300px;
+
+
+}

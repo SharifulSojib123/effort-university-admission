@@ -1,0 +1,15 @@
+.me {
+    color: white;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 30px;
+    /* background-color: black; */
+    background-image: linear-gradient(skyblue, navy);
+    text-align: center;
+}
+
+.me img {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}

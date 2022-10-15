@@ -1,0 +1,8 @@
+.schedule {
+    color: white;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 30px;
+    background-image: linear-gradient(green, tomato);
+    text-align: center;
+}

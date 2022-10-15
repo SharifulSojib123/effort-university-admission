@@ -1,0 +1,101 @@
+[
+    {
+        "advisorName": "Prof. Dr. S.M. Mahbub Ul Haque Majumder",
+        "unit": "A UNIT(Science)",
+        "Id": 710001068,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140145,
+        "img": "https://bdebooks.com/wp-content/uploads/2020/02/Untitled-design-7-724x1024.jpg",
+        "courseFee": 20000
+    },
+    {
+        "advisorName": "Professor Dr. Md. Fokhray Hossain",
+        "unit": "B UNIT(Commerce)",
+        "Id": 710001067,
+        "Class": " 50   ",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140145,
+        "img": "https://m.media-amazon.com/images/I/81P1Dkb07NL.jpg",
+        "courseFee": 18000
+    },
+    {
+        "advisorName": "Professor Dr. Touhid Bhuiyan",
+        "unit": "C UNIT(Arts Faculty)",
+        "Id": 7100010598,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140125,
+        "img": "https://www.biu.edu.ng/wp-content/uploads/2013/09/Art-Education.jpg",
+        "courseFee": 17000
+    },
+    {
+        "advisorName": "Dr. S.M. Aminul Haque",
+        "unit": "D UNIT(GK)",
+        "Id": 710001054,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://haldapublication.com/wp-content/uploads/2021/04/GK-Studies-Combo-Package-2022.jpg.png",
+        "courseFee": 14000
+    },
+    {
+        "advisorName": "Dr. P.M. Babul Khan",
+        "unit": "E UNIT(English)",
+        "Id": 710001052,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140132,
+        "img": "https://i.ytimg.com/vi/L4NRV2uv2bY/maxresdefault.jpg",
+        "courseFee": 15000
+    },
+    {
+        "advisorName": "Prof. Dr. S.M. Rafiqul Alam",
+        "unit": "F UNIT(Bangla)",
+        "Id": 710001024,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/a0e87a2c0_101344.jpg",
+        "courseFee": 14000
+    },
+    {
+        "advisorName": "Professor Dr.Jabbar Bhuiyan",
+        "unit": "G UNIT(Biology)",
+        "Id": 710003054,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://i1.rgstatic.net/publication/342480815_Biology_1st_Paper_Botany/links/5ef65f7ba6fdcc4ca4338f49/largepreview.png",
+        "courseFee": 16000
+    },
+    {
+        "advisorName": " Dr. Md. Fokhirul Hossain",
+        "unit": "H UNIT(CK)",
+        "Id": 710000054,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/168dfd53-8e3d-42bb-948d-016c7410533b/di5mho-b417c6f7-92ac-4d31-97c1-79a200284d0f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2OGRmZDUzLThlM2QtNDJiYi05NDhkLTAxNmM3NDEwNTMzYlwvZGk1bWhvLWI0MTdjNmY3LTkyYWMtNGQzMS05N2MxLTc5YTIwMDI4NGQwZi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.5rXLhbjzMsNxw_kiqU2C6t6659jubfGKQ09f00rfVqo",
+        "courseFee": 19000
+    },
+    {
+        "advisorName": "Professor Dr. Ajmal Bhuiyan",
+        "unit": "I UNIT(IBA)",
+        "Id": 710006054,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/BBA_(IBA)_Admission_Test_Preparation_Boo-Syed_Khairul_Hassan-016bd-73025.jpg",
+        "courseFee": 24000
+    }
+]

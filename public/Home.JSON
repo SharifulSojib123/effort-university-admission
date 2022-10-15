@@ -1,0 +1,46 @@
+[
+    {
+        "advisorName": "Prof. Dr. S.M. Mahbub Ul Haque Majumder",
+        "unit": "A UNIT(Science)",
+        "Id": 710001068,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140145,
+        "img": "https://bdebooks.com/wp-content/uploads/2020/02/Untitled-design-7-724x1024.jpg",
+        "courseFee": 20000
+    },
+    {
+        "advisorName": "Professor Dr. Md. Fokhray Hossain",
+        "unit": "B UNIT(Commerce)",
+        "Id": 710001067,
+        "Class": " 50   ",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140145,
+        "img": "https://m.media-amazon.com/images/I/81P1Dkb07NL.jpg",
+        "courseFee": 18000
+    },
+    {
+        "advisorName": "Professor Dr. Touhid Bhuiyan",
+        "unit": "C UNIT(Arts Faculty)",
+        "Id": 7100010598,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140125,
+        "img": "https://www.biu.edu.ng/wp-content/uploads/2013/09/Art-Education.jpg",
+        "courseFee": 17000
+    },
+    {
+        "advisorName": "Dr. S.M. Aminul Haque",
+        "unit": "D UNIT(GK)",
+        "Id": 710001054,
+        "Class": "50",
+        "modelTest": "45",
+        "Quiz": "50",
+        "contactNumber": 1847140129,
+        "img": "https://haldapublication.com/wp-content/uploads/2021/04/GK-Studies-Combo-Package-2022.jpg.png",
+        "courseFee": 14000
+    }
+]

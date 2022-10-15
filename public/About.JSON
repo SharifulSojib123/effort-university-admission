@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Prof. Dr. S.M. Mahbub Ul Haque Majumder",
+        "EmployeeId": 710001068,
+        "Designation": "Dean",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140145,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/afaa9d85b3fc0092e692e325b4e90b63.jpg",
+        "Salary": 300000
+    },
+    {
+        "name": "Professor Dr. Md. Fokhray Hossain",
+        "EmployeeId": 710001067,
+        "Designation": "Associate Dean & Professor  ",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140145,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/b520b602c379adcac0e08070ed19cae3.png",
+        "Salary": 250000
+    },
+    {
+        "name": "Professor Dr. Touhid Bhuiyan",
+        "EmployeeId": 7100010598,
+        "Designation": "Professor & Head",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140125,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/4383d374442e6e72ad12a0bb79c36aab.JPG",
+        "Salary": 150000
+    },
+    {
+        "name": "Dr. S.M. Aminul Haque",
+        "EmployeeId": 710001054,
+        "Designation": "Associate Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140129,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/c05d1e45e5b13dfda27f31641ead6085.JPG",
+        "Salary": 140000
+    },
+    {
+        "name": "Dr. Sheak Rashed Haider Noori",
+        "EmployeeId": 710001052,
+        "Designation": "Associate Professor and Associate Head  ",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140158,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/d5d06cf0a79a30f4a8a0eebfe152f1ef.jpg",
+        "Salary": 130000
+    },
+    {
+        "name": "Professor Dr. Md. Ismail Jabiullah",
+        "EmployeeId": 710001040,
+        "Designation": "Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140126,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/20b7a489830e48ebbb240f23ace87408.png",
+        "Salary": 170000
+    },
+    {
+        "name": "Mr. Anisur Rahman",
+        "EmployeeId": 710001051,
+        "Designation": "Assistant Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140147,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/093c395f1d8aadd73545035d050e2011.jpg",
+        "Salary": 120000
+    },
+    {
+        "name": "Mr. Gazi Zahirul Islam",
+        "EmployeeId": 710001202,
+        "Designation": "Assistant Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140178,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/26bdcb1d54cb96df2babb224832cc349.jpg",
+        "Salary": 100000
+    },
+    {
+        "name": "Ms. Naznin Sultana",
+        "EmployeeId": 710001205,
+        "Designation": "Assistant Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contacNumber": 1848140115,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/1d18c09b51ff0cbc74a7454761f9f900.JPG",
+        "Salary": 100000
+    },
+    {
+        "name": "Mr. Md. Tarek Habib",
+        "EmployeeId": 710001012,
+        "Designation": "Assistant Professor",
+        "Department": "Deaprtment Of Computer Science and Enginnering",
+        "contactNumber": 1847140110,
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/8e81f9a244b64297face29b386fe951d.JPG",
+        "Salary": 100000
+    }
+]
